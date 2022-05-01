@@ -4,4 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreTop64&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreTop64&layout=compact&show_icons=true&theme=dark)
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexandreTop64&theme=dark&date_format=j%20M%5B%20Y%5D)
